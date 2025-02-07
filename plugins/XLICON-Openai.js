@@ -32,9 +32,9 @@ let handler = async (m, { text, conn, usedPrefix, command }) => {
         contextInfo: {
           externalAdReply: {
             title: "Your AI Response",
-            body: "Powered by AB TECH (XLICON V2)",
-            thumbnailUrl: "https://telegra.ph/file/403a47e628ef49dee27a3.jpg",
-            sourceUrl: "https://github.com/salmanytofficial/XLICON-V2-MD",
+            body: "Powered by ZERO-XMD",
+            thumbnailUrl: "https://files.catbox.moe/kg6guw.jpg",
+            sourceUrl: "https://www.facebook.com/dasundularaka",
           }
         }
       }, { quoted: m });
@@ -55,9 +55,9 @@ let handler = async (m, { text, conn, usedPrefix, command }) => {
         contextInfo: {
           externalAdReply: {
             title: "Fallback AI Response",
-            body: "Powered by AB TECH (XLICON V2)I",
-            thumbnailUrl: "https://telegra.ph/file/403a47e628ef49dee27a3.jpg",
-            sourceUrl: "https://github.com/salmanytofficial/XLICON-V2-MD",
+            body: "Powered by ZERO-XMD",
+            thumbnailUrl: "https://files.catbox.moe/kg6guw.jpg",
+            sourceUrl: "https://www.facebook.com/dasundularaka",
           }
         }
       }, { quoted: m });
