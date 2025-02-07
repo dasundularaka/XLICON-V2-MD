@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 
 let handler = async (m, { conn, usedPrefix: _p }) => {
   try {
-    let videoUrl = "https://files.catbox.moe/0xqrce.mp4";
+    let videoUrl = "https://files.catbox.moe/kg6guw.jpg";
     let caption = 'I AM ATOMIC⇘⥣⇙';
 
     let videoMessage = {
@@ -12,11 +12,11 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       contextInfo: {
         externalAdReply: {
           title: "↺ |◁ II ▷| ♡",
-          body: "XLICON V2",
-          thumbnailUrl: "https://avatars.githubusercontent.com/u/120536940?v=4",
-          sourceUrl: "https://www.whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c",
+          body: "𝚉𝙴𝚁𝙾-𝚇𝙼𝙳",
+          thumbnailUrl: "https://files.catbox.moe/kg6guw.jpg",
+          sourceUrl: "https://www.facebook.com/dasundularaka",
           mediaType: 2,
-          mediaUrl: "https://instagram.com/abraham.dwamena.182",
+          mediaUrl: "https://www.facebook.com/dasundularaka",
           showAdAttribution: true
         }
       }
