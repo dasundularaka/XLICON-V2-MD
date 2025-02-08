@@ -7,13 +7,11 @@ import axios from 'axios'
 
 // Global variables
 global.owner = [
-  ['94765714446', '𝕯𝖆𝖘𝖚𝖓 𝕯𝖚𝖑𝖆𝖗𝖆𝖐𝖆', true], 
-  ['94757537121', '𝕯𝖆𝖘𝖚𝖓 𝕯𝖚𝖑𝖆𝖗𝖆𝖐𝖆', false], 
-  ['94750393482', '𝕴𝖒𝖊𝖘𝖍𝖆 𝕹𝖊𝖙𝖍𝖒𝖎𝖓𝖎', false]
+  ['94765714446', '𝕯𝖆𝖘𝖚𝖓 𝕯𝖚𝖑𝖆𝖗𝖆𝖐𝖆', true]
 ] 
 
 global.mods = ['94765714446','94757537121', '94750393482', '94761613353'] 
-global.prems = ['923184070915', '94789481495', '918360234087', '233268374753']
+global.prems = ['94765714446','94757537121', '94750393482', '94761613353']
 global.allowed = ['infinite']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = global.keysZens[Math.floor(global.keysZens.length * Math.random())]
@@ -54,14 +52,14 @@ global.packname = '𝚉𝙴𝚁𝙾-𝚇𝙼𝙳'
 global.author = '𝕯𝖆𝖘𝖚𝖓 𝕯𝖚𝖑𝖆𝖗𝖆𝖐𝖆' 
 global.menuvid = 'https://files.catbox.moe/kg6guw.jpg'
 global.igfg = '▢✓ Follow US \n https://www.facebook.com/dasundularaka\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
+global.dygp = 'https://www.facebook.com/dasundularaka'
 global.fgsc = 'https://github.com/dasundularaka/XLICON-V2-MD' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
 global.fglog = 'https://files.catbox.moe/kg6guw.jpg' 
 global.thumb = 'https://files.catbox.moe/kg6guw.jpg'
 
-global.wait = '*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▱▱▱▱▱▱▱▱⭐*','*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▰▱▱▱▱▱▱▱⭐*','*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▰▰▱▱▱▱▱▱⭐*','*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▰▰▰▱▱▱▱▱⭐*','*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▰▰▰▰▱▱▱▱⭐*','*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▰▰▰▰▰▱▱▱⭐*','*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▰▰▰▰▰▰▱▱⭐*','*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▰▰▰▰▰▰▰▱⭐*','*🕣 _𝚉𝙴𝚁𝙾-𝚇𝙼𝙳 𝙸𝚂 𝙻𝙾𝙰𝙳𝙸𝙽𝙶..._*\n*▰▰▰▰▰▰▰▰⭐*','𝙳𝙾𝙽𝙴✅'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
